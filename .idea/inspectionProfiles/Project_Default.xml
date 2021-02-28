@@ -1,0 +1,43 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="22">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="bg-white" />
+            <item index="7" class="java.lang.String" itemvalue="border-bottom" />
+            <item index="8" class="java.lang.String" itemvalue="shadow-sm" />
+            <item index="9" class="java.lang.String" itemvalue="bp3-position-top" />
+            <item index="10" class="java.lang.String" itemvalue="mb-3" />
+            <item index="11" class="java.lang.String" itemvalue="px-md-4" />
+            <item index="12" class="java.lang.String" itemvalue="p-3" />
+            <item index="13" class="java.lang.String" itemvalue="align-items-center" />
+            <item index="14" class="java.lang.String" itemvalue="flex-md-row" />
+            <item index="15" class="java.lang.String" itemvalue="flex-column" />
+            <item index="16" class="java.lang.String" itemvalue="alert-warning" />
+            <item index="17" class="java.lang.String" itemvalue="i" />
+            <item index="18" class="java.lang.String" itemvalue="li" />
+            <item index="19" class="java.lang.String" itemvalue="a" />
+            <item index="20" class="java.lang.String" itemvalue="t-title" />
+            <item index="21" class="java.lang.String" itemvalue="t-title_md" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E402" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
